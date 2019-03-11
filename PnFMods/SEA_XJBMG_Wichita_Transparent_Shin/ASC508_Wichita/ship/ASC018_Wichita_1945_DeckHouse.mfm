@@ -1,0 +1,17 @@
+<ASC018_Wichita_1945_DeckHouse.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_DeckHouse_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_DeckHouse_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_DeckHouse_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_DeckHouse_n.dds	</Texture>
+	</property>
+</ASC018_Wichita_1945_DeckHouse.mfm>

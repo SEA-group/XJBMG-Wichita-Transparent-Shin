@@ -1,0 +1,22 @@
+<ARS006_Radar_SK_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.170990 0.000000 -0.031858	</min>
+		<max>	0.170990 0.388696 0.056675	</max>
+	</visibilityBox>
+	<extent>	50.0000	</extent>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/ARS006_Radar_SK_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS006_Radar_SK_lod3.model>

@@ -1,0 +1,38 @@
+<AD014_Director_Mk34_lod2.visual>
+	<boundingBox>
+		<min>	-0.195005 0.000000 -0.114163	</min>
+		<max>	0.195005 0.126883 0.101027	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	AD014_Director_Mk34	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	AD014_Director_Mk34	</node>
+		<geometry>
+			<vertices>	AD014_Director_Mk34_lod2Shape.vertices	</vertices>
+			<primitive>	AD014_Director_Mk34_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/AD014_Director_Mk34.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AD014_Director_Mk34_lod2.visual>

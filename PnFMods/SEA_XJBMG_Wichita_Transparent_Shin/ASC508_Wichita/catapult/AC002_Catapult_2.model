@@ -1,0 +1,13 @@
+<AC002_Catapult_2.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	4.0000	</extent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/catapult/AC002_Catapult_2_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.078075 -0.001547 -0.733477	</min>
+		<max>	0.119757 0.116245 0.706144	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/catapult/AC002_Catapult_2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AC002_Catapult_2.model>

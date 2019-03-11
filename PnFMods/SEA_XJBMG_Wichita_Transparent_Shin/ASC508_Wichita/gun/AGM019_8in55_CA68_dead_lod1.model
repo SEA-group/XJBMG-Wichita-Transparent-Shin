@@ -1,0 +1,8 @@
+<AGM019_8in55_CA68_dead_lod1.model>
+	<extent>	10.0000	</extent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGM019_8in55_CA68_dead_lod2	</parent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGM019_8in55_CA68_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGM019_8in55_CA68_dead_lod1.model>

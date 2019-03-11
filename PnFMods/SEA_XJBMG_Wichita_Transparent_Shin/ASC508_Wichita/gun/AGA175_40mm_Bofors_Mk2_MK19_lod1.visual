@@ -1,0 +1,93 @@
+<AGA175_40mm_Bofors_Mk2_MK19_lod1.visual>
+	<boundingBox>
+		<min>	-0.132858 0.000000 -0.091220	</min>
+		<max>	0.132858 0.216696 0.142505	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bofors	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Radar_MK19_Net	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bofors_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFire1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+					<row3>	0.000000 0.198871 0.139512 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bofors	</node>
+		<geometry>
+			<vertices>	Bofors_lod1Shape.vertices	</vertices>
+			<primitive>	Bofors_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Gun	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGA056_40mm_Bofors.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Radar_MK19_Net	</node>
+		<geometry>
+			<vertices>	Radar_MK19_Net_lod1Shape.vertices	</vertices>
+			<primitive>	Radar_MK19_Net_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	GRID_Misc	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/C004_Grid_1_alpha.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bofors_wire	</node>
+		<geometry>
+			<vertices>	Bofors_wire_lod1Shape.vertices	</vertices>
+			<primitive>	Bofors_wire_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Misc	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGA056_40mm_Bofors_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</AGA175_40mm_Bofors_Mk2_MK19_lod1.visual>

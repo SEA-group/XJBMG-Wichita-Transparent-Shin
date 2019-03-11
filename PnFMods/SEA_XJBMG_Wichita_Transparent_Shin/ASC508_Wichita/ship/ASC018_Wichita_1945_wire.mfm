@@ -1,0 +1,14 @@
+<ASC018_Wichita_1945_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_mg.dds	</Texture>
+	</property>
+</ASC018_Wichita_1945_wire.mfm>
