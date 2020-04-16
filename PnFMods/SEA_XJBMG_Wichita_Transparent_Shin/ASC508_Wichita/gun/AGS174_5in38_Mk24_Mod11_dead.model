@@ -1,8 +1,7 @@
 <AGS174_5in38_Mk24_Mod11_dead.model>
-	<exporter>	1.6	</exporter>
 	<castsShadow>	true	</castsShadow>
-	<extent>	4.0000	</extent>
 	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGS174_5in38_Mk24_Mod11_dead_lod1	</parent>
+	<extent>	4.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGS174_5in38_Mk24_Mod11_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AGS174_5in38_Mk24_Mod11_dead.model>

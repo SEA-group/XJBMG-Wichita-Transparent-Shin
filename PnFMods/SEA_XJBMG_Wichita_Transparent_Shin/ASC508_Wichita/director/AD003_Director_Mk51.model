@@ -1,13 +1,7 @@
 <AD003_Director_Mk51.model>
 	<castsShadow>	false	</castsShadow>
-	<extent>	2.0000	</extent>
 	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/AD003_Director_Mk51_lod1	</parent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.021581 0.000000 -0.037081	</min>
-		<max>	0.021581 0.110563 0.027169	</max>
-	</visibilityBox>
-	<exporter>	1.6	</exporter>
+	<extent>	2.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/AD003_Director_Mk51	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AD003_Director_Mk51.model>

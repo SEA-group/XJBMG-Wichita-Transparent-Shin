@@ -1,84 +1,42 @@
 <ASC018_Wichita_1945_Stern_lod3.visual>
-	<boundingBox>
-		<min>	-0.522106 -0.498882 -6.152581	</min>
-		<max>	0.522972 0.564214 -4.326939	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	Stern	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
 				<identifier>	Stern_crack_MidBack	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 				<node>
 					<identifier>	Stern_crack_MidBack_in	</identifier>
 					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 					</transform>
 				</node>
 			</node>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Stern	</node>
-		<geometry>
-			<vertices>	Stern_lod3Shape.vertices	</vertices>
-			<primitive>	Stern_lod3Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/Does_Not_Exist.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Stern_crack_MidBack	</node>
-		<geometry>
-			<vertices>	Stern_crack_MidBack_lod3Shape.vertices	</vertices>
-			<primitive>	Stern_crack_MidBack_lod3Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/Does_Not_Exist.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Stern_crack_MidBack_in	</node>
-		<geometry>
-			<vertices>	Stern_crack_MidBack_in_lod3Shape.vertices	</vertices>
-			<primitive>	Stern_crack_MidBack_in_lod3Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/Does_Not_Exist.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<boundingBox>
+		<min>	-0.5221 -0.4989 -6.1526	</min>
+		<max>	0.5230 0.5642 -4.3269	</max>
+	</boundingBox>
 </ASC018_Wichita_1945_Stern_lod3.visual>

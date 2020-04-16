@@ -1,7 +1,6 @@
 <ASC018_Wichita_1945_Full_lod4.model>
-	<exporter>	1.6	</exporter>
-	<extent>	1000.0000	</extent>
 	<castsShadow>	false	</castsShadow>
+	<extent>	1000.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/ship/ASC018_Wichita_1945_Full_lod4	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ASC018_Wichita_1945_Full_lod4.model>

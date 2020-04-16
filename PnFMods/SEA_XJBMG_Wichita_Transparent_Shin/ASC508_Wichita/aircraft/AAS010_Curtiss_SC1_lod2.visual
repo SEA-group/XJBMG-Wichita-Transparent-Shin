@@ -30,18 +30,4 @@
 			</node>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	hull	</node>
-		<geometry>
-			<vertices>	hull_lodShape2.vertices	</vertices>
-			<primitive>	hull_lodShape2.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
 </AAS010_Curtiss_SC1_lod2.visual>

@@ -57,46 +57,4 @@
 			</node>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	hull	</node>
-		<geometry>
-			<vertices>	hull_lodShape1.vertices	</vertices>
-			<primitive>	hull_lodShape1.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	mod	</node>
-		<geometry>
-			<vertices>	mod_lodShape1.vertices	</vertices>
-			<primitive>	mod_lodShape1.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PBS_Plane	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/aircraft/AAS010_Curtiss_SC1.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	disc	</node>
-		<geometry>
-			<vertices>	disc_lod1Shape.vertices	</vertices>
-			<primitive>	disc_lod1Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	PROPELLERMAT_propeller	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/aircraft/USA_Disk_4Blade_01_alpha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
 </AAS010_Curtiss_SC1_lod1.visual>

@@ -1,7 +1,6 @@
 <AGS001_5in38_Mk30_Mod0_dead_lod3.model>
-	<extent>	100.000000	</extent>
 	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
+	<extent>	100.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGS001_5in38_Mk30_Mod0_dead_lod3	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AGS001_5in38_Mk30_Mod0_dead_lod3.model>

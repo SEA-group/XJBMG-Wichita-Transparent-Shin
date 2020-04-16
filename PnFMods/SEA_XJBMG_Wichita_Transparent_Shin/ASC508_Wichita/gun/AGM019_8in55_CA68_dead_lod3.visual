@@ -1,38 +1,24 @@
 <AGM019_8in55_CA68_dead_lod3.visual>
-	<boundingBox>
-		<min>	-0.259583 0.006136 -0.384494	</min>
-		<max>	0.259583 0.250000 0.706317	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	AGM019_8in55_CA068_dead	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	AGM019_8in55_CA068_dead	</node>
-		<geometry>
-			<vertices>	AGM019_8in55_CA068_dead_lod3Shape.vertices	</vertices>
-			<primitive>	AGM019_8in55_CA068_dead_lod3Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
-					<mfm>	PnFMods/SEA_UAN_Wichita/ASC508_Wichita/gun/AGM019_8in55_CA68_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<boundingBox>
+		<min>	-0.2596 0.0061 -0.3845	</min>
+		<max>	0.2596 0.2500 0.7063	</max>
+	</boundingBox>
 </AGM019_8in55_CA68_dead_lod3.visual>

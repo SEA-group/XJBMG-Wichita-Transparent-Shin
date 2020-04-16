@@ -19,20 +19,24 @@
 				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
+			<node>
+				<identifier>	MP_AM648_Radar_Mk28	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.106520 0.107454 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM653_Radar_Mk4_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.133106 0.107458 1.000000	</row3>
+				</transform>
+			</node>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	AD0085_Director_Mk33	</node>
-		<geometry>
-			<vertices>	AD0085_Director_Mk33_lod2Shape.vertices	</vertices>
-			<primitive>	AD0085_Director_Mk33_lod2Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/AD085_Director_Mk33.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
 </AD085_Director_Mk33_lod2.visual>

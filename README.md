@@ -1,4 +1,4 @@
-﻿# Wichita: Transparent Shin
+﻿# Wichita: Transparent [Authentic]
 
 ======================Presented by SEA group======================
 

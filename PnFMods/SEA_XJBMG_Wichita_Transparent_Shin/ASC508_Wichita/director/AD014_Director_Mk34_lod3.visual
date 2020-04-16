@@ -21,18 +21,4 @@
 			</transform>
 		</node>
 	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	AD014_Director_Mk34	</node>
-		<geometry>
-			<vertices>	AD014_Director_Mk34_lod3Shape.vertices	</vertices>
-			<primitive>	AD014_Director_Mk34_lod3Shape.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/AD014_Director_Mk34.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
 </AD014_Director_Mk34_lod3.visual>

@@ -1,12 +1,6 @@
 <ARS033_Radar_SF_lod1.model>
 	<castsShadow>	false	</castsShadow>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.024685 -0.004126 -0.024685	</min>
-		<max>	0.024685 0.061088 0.024685	</max>
-	</visibilityBox>
-	<extent>	15.000000	</extent>
-	<exporter>	1.6	</exporter>
+	<extent>	15.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/ARS033_Radar_SF_lod1	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ARS033_Radar_SF_lod1.model>
