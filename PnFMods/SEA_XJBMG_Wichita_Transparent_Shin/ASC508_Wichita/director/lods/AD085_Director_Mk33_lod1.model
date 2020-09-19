@@ -1,0 +1,8 @@
+<AD085_Director_Mk33_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/lods/AD085_Director_Mk33_lod2	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/lods/AD085_Director_Mk33_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD085_Director_Mk33_lod1.model>

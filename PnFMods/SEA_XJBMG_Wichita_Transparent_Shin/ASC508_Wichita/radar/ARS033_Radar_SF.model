@@ -1,6 +1,6 @@
 <ARS033_Radar_SF.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/ARS033_Radar_SF_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/lods/ARS033_Radar_SF_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/ARS033_Radar_SF	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

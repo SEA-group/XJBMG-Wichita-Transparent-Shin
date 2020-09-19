@@ -1,6 +1,6 @@
 <ARS004_Radar_SG.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/ARS004_Radar_SG_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/lods/ARS004_Radar_SG_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/radar/ARS004_Radar_SG	</nodefullVisual>
 	<animation>

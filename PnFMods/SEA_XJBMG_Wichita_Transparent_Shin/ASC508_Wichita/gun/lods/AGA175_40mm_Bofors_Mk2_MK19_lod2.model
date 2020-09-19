@@ -1,0 +1,7 @@
+<AGA175_40mm_Bofors_Mk2_MK19_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/lods/AGA175_40mm_Bofors_Mk2_MK19_lod3	</parent>
+	<extent>	15.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/lods/AGA175_40mm_Bofors_Mk2_MK19_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA175_40mm_Bofors_Mk2_MK19_lod2.model>

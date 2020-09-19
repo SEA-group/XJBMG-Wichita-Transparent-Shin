@@ -1,0 +1,12 @@
+<AD014_Director_Mk34_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	80.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.197555 0.014470 -0.096052	</min>
+		<max>	0.195680 0.085662 0.037339	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/lods/AD014_Director_Mk34_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD014_Director_Mk34_lod3.model>

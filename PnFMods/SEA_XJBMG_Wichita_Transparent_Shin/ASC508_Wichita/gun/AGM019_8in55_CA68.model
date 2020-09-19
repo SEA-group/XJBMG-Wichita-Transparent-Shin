@@ -1,6 +1,6 @@
 <AGM019_8in55_CA68.model>
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGM019_8in55_CA68_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/lods/AGM019_8in55_CA68_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/gun/AGM019_8in55_CA68	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>

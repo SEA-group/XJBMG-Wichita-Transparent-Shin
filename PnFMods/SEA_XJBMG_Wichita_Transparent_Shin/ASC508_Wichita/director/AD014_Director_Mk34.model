@@ -1,7 +1,7 @@
 <AD014_Director_Mk34.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/AD014_Director_Mk34_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Wichita_Transparent_Shin/ASC508_Wichita/director/lods/AD014_Director_Mk34_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.197555 0.000000 -0.119034	</min>
